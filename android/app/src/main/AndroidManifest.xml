@@ -2,7 +2,7 @@
     package="com.example.hommy">
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
    <application
-        android:label="DEVOUR"
+        android:label="DEVOUR_RITIK_KUMAR"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

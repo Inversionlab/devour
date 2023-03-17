@@ -126,7 +126,7 @@ class _secState extends State<sec> {
                           if(file!=null){
                             print("picture saved to ${file.path}");
                             Notify();
-                            // Navigator.of(context).push(MaterialPageRoute(builder: (context)=>third()));
+                            Navigator.of(context).push(MaterialPageRoute(builder: (context)=>third()));
                             upld();
                           }
                         }
