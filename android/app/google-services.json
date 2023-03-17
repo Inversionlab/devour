@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75642553959",
+    "project_id": "cameras-289c9",
+    "storage_bucket": "cameras-289c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75642553959:android:4571745bf53dd5471076c2",
+        "android_client_info": {
+          "package_name": "com.example.hommy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75642553959-rlvletrtfkbdrju04gdn2aj32c19mbcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGLWBQ9JYweH7d33smZmFiohXi7vtfocM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75642553959-rlvletrtfkbdrju04gdn2aj32c19mbcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
